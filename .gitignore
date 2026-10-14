@@ -1,0 +1,48 @@
+﻿# IDE settings
+.idea/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Build and dependency folders
+node_modules/
+dist/
+build/
+
+# Editor and OS-generated files
+.vscode/
+.DS_Store
+Thumbs.db
+
+Dlib_Windows_Python3.x-main/
+face_recognition_models-master/
+dlib_face_recognition_resnet_model_v1.dat
+mmod_human_face_detector.dat
+shape_predictor_5_face_landmarks.dat
+shape_predictor_68_face_landmarks.dat
+
+# IDE and generated files
+.idea/
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Bundled third-party folders
+Dlib_Windows_Python3.x-main/
+face_recognition_models-master/
+
+# Model files: keep local until redistribution terms are verified
+dlib_face_recognition_resnet_model_v1.dat
+mmod_human_face_detector.dat
+shape_predictor_5_face_landmarks.dat
+shape_predictor_68_face_landmarks.dat
